@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6fc4cf94-86ae-4bce-8b06-39cb0838070f/resourceGroups/BuildSchool_ResourceGroup/providers/Microsoft.Web/sites/bs2019FornEnd",
+    "appService.deploySubpath": ""
+}
